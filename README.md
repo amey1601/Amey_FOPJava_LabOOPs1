@@ -18,5 +18,6 @@ I have uploaded my LAB1 project with the following structure :
  instead of fiximg the name to "Harshit" , i have created the porject such that  any new user can enter his/her name and the credentials such as email and password will be generated for them accordingly.
  
  regards 
+ 
  Amey Bikram .
         
